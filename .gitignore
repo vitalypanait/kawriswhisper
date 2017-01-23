@@ -1,0 +1,7 @@
+dist/
+.DS_Store
+.idea/*
+
+# Node grunt
+node_modules/
+npm-debug.log
